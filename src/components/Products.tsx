@@ -27,7 +27,7 @@ const Products: React.FC = () => {
     {
       id: 2,
       name: "Ashwagandha Stress Relief",
-      description: "Ancient adaptogen to help manage stress and promote overall wellness and vitality.",
+      description: "Ancient adaptogen to help manage stress and promote overall goodness and vitality.",
       price: "$29.99",
       image: "https://images.pexels.com/photos/4202926/pexels-photo-4202926.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
       benefits: ["Stress Relief", "Better Sleep", "Mental Clarity"],
@@ -46,8 +46,8 @@ const Products: React.FC = () => {
     },
     {
       id: 4,
-      name: "Elderberry Wellness",
-      description: "Traditional elderberry extract for seasonal wellness and immune system support.",
+      name: "Elderberry Goodness",
+      description: "Traditional elderberry extract for seasonal goodness and immune system support.",
       price: "$26.99",
       image: "https://images.pexels.com/photos/5094943/pexels-photo-5094943.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop",
       benefits: ["Seasonal Support", "Antioxidants", "Immune Health"],

@@ -11,7 +11,7 @@ const Contact: React.FC = () => {
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
             Have questions about our tinctures or need personalized recommendations? 
-            We're here to help you on your wellness journey.
+            We're here to help you on your goodness journey.
           </p>
         </div>
 
@@ -67,7 +67,7 @@ const Contact: React.FC = () => {
               <h3 className="text-xl font-bold mb-4">Free Consultation</h3>
               <p className="mb-4">
                 Not sure which tincture is right for you? Book a free 15-minute consultation 
-                with our herbalist to discuss your wellness goals.
+                with our herbalist to discuss your goodness goals.
               </p>
               <button className="bg-white text-green-600 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors duration-200">
                 Schedule Consultation

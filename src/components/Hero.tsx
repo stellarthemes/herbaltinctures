@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
         <div className="max-w-4xl mx-auto">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
             Pure Botanical
-            <span className="block text-green-400">Wellness</span>
+            <span className="block text-green-400">Goodness</span>
           </h1>
           
           <p className="text-lg md:text-xl lg:text-2xl text-gray-200 mb-8 max-w-2xl mx-auto leading-relaxed">

@@ -82,7 +82,7 @@ const About: React.FC = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-1">Community</h3>
-                  <p className="text-sm text-gray-600">Supporting wellness in our community</p>
+                  <p className="text-sm text-gray-600">Supporting goodness in our community</p>
                 </div>
               </div>
             </div>
